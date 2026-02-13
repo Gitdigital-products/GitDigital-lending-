@@ -1,3 +1,51 @@
+
+# GitDigital Lending
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Governance](https://img.shields.io/badge/Governance-Dual--Founder-blue?style=flat-square)
+![Compliance](https://img.shields.io/badge/Compliance-Tax--First-orange?style=flat-square)
+![LaCS](https://img.shields.io/badge/System-LaCS%20Engine-purple?style=flat-square)
+![Ledger](https://img.shields.io/badge/Ledger-Audit--Safe-yellow?style=flat-square)
+
+---
+
+## Welcome
+
+GitDigital Lending provides fair, transparent, and milestone‑based loans for individuals and small businesses.  
+There are **no credit checks**, no predatory terms, and no hidden fees.
+
+Every loan is governed by:
+
+- Dual‑founder approval  
+- A legally binding Promissory Note  
+- Milestone‑based repayment  
+- Audit‑safe ledger entries  
+- The LaCS governance engine  
+
+---
+
+## Apply Now
+
+👉 **[Start Your Application](./apply)**  
+The application takes **10–15 minutes** and requires basic documentation.
+
+---
+
+## Learn More
+
+Visit the full documentation:  
+👉 **[GitDigital Lending Wiki](../wiki)**
+
+---
+
+## System Architecture
+
+![Milestones](https://img.shields.io/badge/Milestones-Structured-success?style=flat-square)
+![Repayment](https://img.shields.io/badge/Repayment-Milestone--Based-198754?style=flat-square)
+![Borrower Support](https://img.shields.io/badge/Support-Active-6610f2?style=flat-square)
+
+**GitDigital Lending — Governance‑Driven, Milestone‑Based, Audit‑Safe**
+
 # GitDigital-lending-
 GitDigital Lending  GitDigital Lending exists to create fair, accessible, and opportunity‑driven financial support for individuals and small businesses who are ready to grow but often overlooked by traditional systems. 
 
